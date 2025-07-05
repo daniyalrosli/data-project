@@ -17,3 +17,8 @@ print('Data written to SQL database.')
 df_sql = pd.read_sql('SELECT * FROM air_quality LIMIT 5', engine)
 print('Queried data:')
 print(df_sql) 
+
+
+
+
+ 
