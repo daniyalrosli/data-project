@@ -1,0 +1,3 @@
+- list of data analysis projects that i do and want to share to the public (recruiter actually hehe).
+- list of projects that hopefully can get me employed and brings value to stakeholder.
+- on serious note, its a project for me to improve my analytic skills and stay up to date in data field
